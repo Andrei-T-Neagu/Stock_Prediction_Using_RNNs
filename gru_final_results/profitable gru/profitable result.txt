@@ -1,0 +1,7 @@
+rnn, losses = train_RNN(X_train_t, y_train_t, rnn_type = 'gru', lr = 0.0005, batch_size = 100, num_epoch = 1000, hidden_size = 10, num_layers = 2, dropout = 0.25)
+VAL:
+Total dollar amount from holding:  391204.8971585051
+Total dollarr amount from trading using prediction:  202334.41085937896
+TEST:
+Total dollar amount from holding:  1336113.833428651
+Total dollarr amount from trading using prediction:  1595027.1520119489
