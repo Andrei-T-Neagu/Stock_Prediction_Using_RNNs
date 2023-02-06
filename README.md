@@ -23,10 +23,10 @@ in the RNN training part of the notebok and the cells in Hyperparameter Plotting
 
 ## Requirements
 
-python >= 3.7
-pip >= 21.3.1
-yfinance >= 0.1.70
-numpy >= 1.20.3
-torch >= 1.9.1
-sklearn >= 1.0.1
-matplotlib >= 3.5.1
+python >= 3.7\
+pip >= 21.3.1\
+yfinance >= 0.1.70\
+numpy >= 1.20.3\
+torch >= 1.9.1\
+sklearn >= 1.0.1\
+matplotlib >= 3.5.1\
